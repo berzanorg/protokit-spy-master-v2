@@ -1,2 +1,15 @@
-# protokit-spy-master-v2
-Spy Master App Chain For Challange 4 Using Protokit
+# Protokit Spy Master
+
+This repository is created using Protokit for Mina Navigators Learn To Earn Challange 3.
+
+Install dependencies:
+
+```shell
+pnpm install
+```
+
+Run tests:
+
+```shell
+pnpm run test --filter=chain
+```
